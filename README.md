@@ -17,7 +17,7 @@ The Code and Data will be released soon.
 We have prepared an introduction video to provide an overview of this study. You can watch the video [Here]().
 
 ## Citation:
-`
+```
 @article{zhao2023metaball,
   title={Metaball-Imaging discrete element lattice Boltzmann method for fluid--particle system of complex morphologies with case studies},
   author={Zhao, Yifeng and Zhang, Pei and Lei, Liang and Kong, Lingwei and Galindo-Torres, SA and Li, Stan Z},
@@ -27,4 +27,4 @@ We have prepared an introduction video to provide an overview of this study. You
   year={2023},
   publisher={AIP Publishing}
 }
-`
+```
