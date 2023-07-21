@@ -8,13 +8,23 @@ MI-DELBM is a robust simulation framework designed for fluid-particle systems fe
 This repository contains the associated manuscript, code, data, and supplementary materials. We hope this work will be helpful to the research community and encourage further collaboration and exploration in the field.  If you find my work of interest, please feel free to cite, implement, or reuse it as needed. Your engagement and collaboration are highly encouraged. 
 
 ## Paper's DOI Link
-The full paper is available on [DOI Link] or through the following citation:
-
-
+The full paper is available through this [doi link](https://doi.org/10.1063/5.0135834). 
 
 ## Code and Data
 The Code and Data will be released soon. 
 
-
 ## An Introduction Video
-We have prepared an introduction video to provide an overview of this study. You can watch the video [Link here](www.baidu.com).
+We have prepared an introduction video to provide an overview of this study. You can watch the video [Here]().
+
+## Citation:
+`
+@article{zhao2023metaball,
+  title={Metaball-Imaging discrete element lattice Boltzmann method for fluid--particle system of complex morphologies with case studies},
+  author={Zhao, Yifeng and Zhang, Pei and Lei, Liang and Kong, Lingwei and Galindo-Torres, SA and Li, Stan Z},
+  journal={Physics of Fluids},
+  volume={35},
+  number={2},
+  year={2023},
+  publisher={AIP Publishing}
+}
+`
